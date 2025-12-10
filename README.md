@@ -28,10 +28,10 @@ The full, commented script containing all 10 core queries is the primary deliver
 
 | File Name | Content & Review Focus |
 | :--- | :--- |
-| **[`1_VC_SQL_Script.sql`]([1_VC_SQL_Script.sql](https://github.com/lentzjeanfrancois5-boop/Venture-Capital-SQL-Analysis/blob/main/1_VC_SQL_SCRIPT.sql)** | The **core deliverable** containing all 10 finalized queries. Each query is commented with its business objective. |
+| **[`1_VC_SQL_Script.sql`](https://github.com/lentzjeanfrancois5-boop/Venture-Capital-SQL-Analysis/blob/main/1_VC_SQL_SCRIPT.sql)** | The **core deliverable** containing all 10 finalized queries. Each query is commented with its business objective. |
 | **`README.md`** | Project overview and summary of technical achievements. |
 
 ### ➡️ How to View the Code
 
-To review the full SQL script, click the **[`1_VC_SQL_Script.sql`](1_VC_SQL_Script.sql)** file listed above. The technical complexity is detailed in the **Key Technical Achievements** section.
+To review the full SQL script, click the **[`1_VC_SQL_Script.sql`](https://github.com/lentzjeanfrancois5-boop/Venture-Capital-SQL-Analysis/blob/main/1_VC_SQL_SCRIPT.sql)** file listed above. The technical complexity is detailed in the **Key Technical Achievements** section.
 
