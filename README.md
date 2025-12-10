@@ -35,23 +35,3 @@ The full, commented script containing all 10 core queries is the primary deliver
 
 To review the full SQL script, click the **`1_VC_SQL_Script.sql`** file listed above. The technical complexity is detailed in the **Key Technical Achievements** section.
 
----
-
-## 🚀 Next Steps: Uploading the Files
-
-Follow these steps to finalize your repository:
-
-### 1. Update the README
-
-* Go to your **`Venture-Capital-SQL-Analysis`** repository.
-* Click the **`README.md`** file.
-* Click the **pencil icon (✏️)** to edit it.
-* Paste the final content above, commit the change directly to the `main` branch.
-
-### 2. Upload the SQL File
-
-* On the main page of your repository, click **"Add file"** $\rightarrow$ **"Upload files."**
-* Drag and drop your file named **`1_VC_SQL_Script.sql`**.
-* Select **"Commit directly to the `main` branch."** (This is the critical step to avoid the Pull Request).
-* Click **"Commit changes."**
-
